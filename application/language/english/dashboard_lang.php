@@ -1,0 +1,2 @@
+<?php
+  $lang['home'] = 'Home';
